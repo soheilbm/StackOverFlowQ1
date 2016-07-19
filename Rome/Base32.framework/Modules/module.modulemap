@@ -1,0 +1,6 @@
+framework module Base32 {
+  umbrella header "Pods-Testing-Base32-umbrella.h"
+
+  export *
+  module * { export * }
+}

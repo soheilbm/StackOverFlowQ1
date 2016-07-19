@@ -1,0 +1,6 @@
+framework module ADALiOS {
+  umbrella header "Pods-Testing-ADALiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
